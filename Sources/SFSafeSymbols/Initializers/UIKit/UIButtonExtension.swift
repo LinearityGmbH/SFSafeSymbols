@@ -2,7 +2,7 @@
 
 import UIKit
 
-@available(iOS 13.0, tvOS 13.0, *)
+@available(visionOS 1.0, iOS 13.0, tvOS 13.0, *)
 public extension UIButton {
 
     /// Creates and returns a system type button with specified symbol, target, and action.

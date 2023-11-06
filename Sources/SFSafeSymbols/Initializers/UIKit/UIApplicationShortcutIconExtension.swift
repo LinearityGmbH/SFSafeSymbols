@@ -2,7 +2,7 @@
 
 import UIKit
 
-@available(iOS 13.0, *)
+@available(visionOS 1.0, iOS 13.0, *)
 public extension UIApplicationShortcutIcon {
 
     /// Creates a Home screen quick action icon using a system symbol image.
